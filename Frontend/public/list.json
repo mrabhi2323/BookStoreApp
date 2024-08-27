@@ -2,89 +2,100 @@
     {
         "id" : 1,
         "name" :"Anthology",
-        "title" : "Collections of interrelated stories and poems",
-        "price" : "00",
+        "title" : "The Awakening and Selected Short Stories",
+        "price" : "0",
         "category":"Free",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link" : "https://www.pdfbooksworld.com/bibi/pre.html?book=247.epub"
     },
     {
         "id" : 2,
-        "name" :"Sports",
-        "title" : "Collections of interrelated stories and poems",
+        "name" :"Gulzar ki Triveni",
+        "title" : "Collections of Ghazals by Gulzar",
         "price" : "50",
         "category":"Paid",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link" : "https://drive.google.com/file/d/1TjadUBlcZmtQAlqyX31im7Ud4JPWmk1d/view?usp=sharing"
     },
     {
         "id" : 3,
-        "name" :"Sports",
-        "title" : "Collections of interrelated stories and poems",
-        "price" : "50",
+        "name" :"Gunaho Ka Devta",
+        "title" : "Famous love story",
+        "price" : "0",
         "category":"Free",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link": "https://drive.google.com/file/d/1FOKppuq2LuFkCs1d1hCP1AdwEADzF3nW/view?usp=sharing"
     },
     {
         "id" : 4,
-        "name" :"Sports",
-        "title" : "Collections of interrelated stories and poems",
-        "price" : "50",
+        "name" :"Do.Bailo.Ki.Katha",
+        "title" : "Fight to freedom by Premchand",
+        "price" : "0",
         "category":"Free",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link" : "https://drive.google.com/file/d/1GIIuNUkB_8HN931LoqvnTBh9Y4GpIht-/view?usp=sharing"
     },
     {
         "id" : 5,
-        "name" :"Sports",
-        "title" : "Collections of interrelated stories and poems",
+        "name" :"Alchemist",
+        "title" : "adventerous treasure hunt",
         "price" : "50",
         "category":"Paid",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link":"https://drive.google.com/file/d/1fNkkGaugQJlCUIkSz--zIqJ2Gi1VrJRR/view?usp=sharing"
     },
     {
         "id" : 6,
-        "name" :"Sports",
+        "name" :"Three.men.in.a.boat",
         "title" : "Collections of interrelated stories and poems",
         "price" : "50",
         "category":"Paid",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link" : "https://drive.google.com/file/d/11sHF1igd0zjkdUj7ldwxskZ4bwdjkKLq/view?usp=sharing"
     },
     {
         "id" : 7,
-        "name" :"Sports",
-        "title" : "Collections of interrelated stories and poems",
-        "price" : "50",
+        "name" :"ShrimadBhagvadgita",
+        "title" : "Translated by SRI SWAMI SIVANANDA",
+        "price" : "0",
         "category":"Free",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link" : "https://drive.google.com/file/d/11X5eErC6-VR87LMMLox5r5VKlApGVooh/view?usp=sharing"
     },
     {
         "id" : 8,
-        "name" :"Sports",
-        "title" : "Collections of interrelated stories and poems",
-        "price" : "50",
+        "name" :"HarryPotter",
+        "title" : "Harry Potter and the Sorcerer's Stone",
+        "price" : "0",
         "category":"Free",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link":"https://drive.google.com/file/d/1MF0GhEuz76sFigMda5nj7LkPjec0nNva/view?usp=sharing"
     },
     {
         "id" : 9,
-        "name" :"Sports",
-        "title" : "Collections of interrelated stories and poems",
+        "name" :"Rich.Dad.Poor.Dad",
+        "title" : "Start your Finance Journey",
         "price" : "50",
         "category":"Paid",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link" : "https://ia804501.us.archive.org/4/items/rich-dad-poor-dad_202106/Rich%20Dad%20Poor%20Dad.pdf"
     },
     {
         "id" : 10,
-        "name" :"Sports",
-        "title" : "Collections of interrelated stories and poems",
-        "price" : "50",
+        "name" :"The.Canterville.ghost",
+        "title" : "An amusing chronicle of the tribulations of the ghost of Canterville",
+        "price" : "0",
         "category":"Free",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link" : "https://drive.google.com/file/d/14b9j7ijYEbm91_oG0gyJzkPTztFJB5da/view?usp=sharing"
     },
     {
         "id" : 11,
-        "name" :"Sports",
-        "title" : "Collections of interrelated stories and poems",
-        "price" : "50",
+        "name" :"Gulliver's Travels",
+        "title" : "An Epic Journey Through Strange Lands and Incredible Adventures",
+        "price" : "0",
         "category":"Free",
-        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740"
+        "image" :"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723877179~exp=1723880779~hmac=4deb968e15c593d10bb9b60dcf48b9b009ae9ca3851a65831b689cb5d8887fd6&w=740",
+        "link" : "https://drive.google.com/file/d/1NE6BJvTee3RUUwG9frZxlE6OdP5ZUoxZ/view?usp=sharing"
     }
 ]
